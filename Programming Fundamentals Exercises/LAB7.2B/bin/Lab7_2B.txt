@@ -1,0 +1,4 @@
+milk 2.05 2
+cereal 3.99 3
+bread 2.75 1
+soup 1.39 5
