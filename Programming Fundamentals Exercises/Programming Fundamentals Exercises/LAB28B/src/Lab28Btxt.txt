@@ -1,0 +1,10 @@
+1011 7 blue/black
+8234 8 green/red
+5675 4 blue/green
+4345 6 black/white
+2299 6 black/black
+1127 4 red/yellow
+3998 8 orange/white
+7667 7 brown/black
+9996 4 silver/gold
+6701 2 gold/black
