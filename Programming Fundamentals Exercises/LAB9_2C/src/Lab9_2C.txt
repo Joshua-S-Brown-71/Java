@@ -1,5 +1,0 @@
-Kitchen  15  20
-Study  18  20
-Den  25  2
-Bedroom  20  26
-DiningRoom  20  20
