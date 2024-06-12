@@ -1,0 +1,10 @@
+13 3 green
+6 2 yellow
+53 4 blue
+46 4 white
+12 3 black
+1 2 red
+35 2 orange
+98 3 brown
+29 4 silver
+63 3 gold
